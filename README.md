@@ -19,4 +19,4 @@ Then, proceed to the train_test part to develop a predictive model based on our 
 
 
 ### Owner
-- Rocio Martinez Veloso <rmartinezveloso@alumnos.cei.es>
+- Rocio Martinez Veloso <rmartinezveloso@gmail.es>
